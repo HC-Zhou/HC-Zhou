@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<div align="center"> <img src="https://metrics.lecoq.io/insights?user=HC-Zhou"> </div>
+<div align="center"> <img src="https://metrics.lecoq.io/insights/HC-Zhou"> </div>
