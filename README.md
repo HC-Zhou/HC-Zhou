@@ -19,8 +19,6 @@ Here are some ideas to get you started:
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HC-Zhou&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HC-Zhou&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=HC-Zhou&left_color=green&right_color=red)
 
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=HC-Zhou&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
