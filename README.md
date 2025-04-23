@@ -16,8 +16,6 @@ Here are some ideas to get you started:
 -->
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HC-Zhou&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-<img align="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HC-Zhou&layout=compact&hide=javascript,html,css&hide_title=true&hide_border=true&theme=radical&locale=cn" />
-
 
 ### 贪吃蛇彩蛋 🎄
 <picture>
