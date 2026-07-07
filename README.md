@@ -1,75 +1,94 @@
 <div align="center">
 
-# Hi there 👋 I'm HC-Zhou
+# Hi, I'm HC-Zhou
 
-### AI Engineer | Backend Developer | Distributed Systems
+### Full-Stack Developer | AI Engineering
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1200&color=38BDF8&center=true&vCenter=true&width=600&lines=Artificial+Intelligence;Backend+Development;Distributed+Systems;Open+Source+Enthusiast;Always+Learning..." />
+<p>
+  I build reliable web products end to end, from polished user interfaces to scalable backend services,
+  data-driven AI features, and production-ready cloud infrastructure.
+</p>
 
-![](https://komarev.com/ghpvc/?username=HC-Zhou&style=flat-square&color=0e75b6)
+<p>
+  <a href="https://github.com/HC-Zhou">
+    <img src="https://komarev.com/ghpvc/?username=HC-Zhou&style=flat-square&color=0e75b6" alt="Profile views" />
+  </a>
+  <a href="https://github.com/HC-Zhou?tab=followers">
+    <img src="https://img.shields.io/github/followers/HC-Zhou?style=flat-square&logo=github&label=Followers" alt="GitHub followers" />
+  </a>
+</p>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1200&color=38BDF8&center=true&vCenter=true&width=760&lines=Full-stack+product+engineering;Backend+systems+and+API+design;AI-native+applications+and+agent+workflows;Cloud-native+delivery+and+DevOps;Always+shipping%2C+learning%2C+and+improving" alt="Typing SVG" />
 
 </div>
 
 ---
 
-# 👨‍💻 About Me
+## About
 
 ```text
-💡 Passionate about AI and Software Engineering
+Focus
+  Build practical, maintainable software across the full product stack.
 
-🌱 Currently learning
-   • LLM Applications
-   • Agent Systems
-   • Cloud Native
-   • Distributed Computing
+Current interests
+  LLM applications, agent systems, distributed services, cloud native engineering.
 
-🚀 Interested in
-   • AI
-   • Backend
-   • High Performance Computing
-   • DevOps
+Engineering style
+  Clear architecture, readable code, reliable APIs, observable systems, fast iteration.
+
+Product mindset
+  Turn ambiguous requirements into usable, measurable, and maintainable products.
 ```
 
----
+## What I Work On
 
-# 🛠 Tech Stack
+| Area | What I Build |
+| --- | --- |
+| Frontend | Responsive web apps, dashboards, component-driven interfaces, modern React/Next.js experiences |
+| Backend | REST APIs, service architecture, authentication, data modeling, async jobs, performance optimization |
+| AI Engineering | LLM applications, RAG workflows, agent systems, prompt orchestration, model integration |
+| Cloud & DevOps | Dockerized services, Kubernetes deployment, Linux operations, CI/CD, Nginx-based delivery |
+| Data Layer | PostgreSQL/MySQL schemas, Redis caching, query optimization, reliable persistence patterns |
+
+## Tech Stack
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=cpp,c,python,go,rust,java,ts,nodejs,react,nextjs,docker,kubernetes,linux,git,vscode,mysql,postgres,redis,nginx,bash&perline=10"/>
+### Languages
+<img src="https://skillicons.dev/icons?i=ts,python,java,cpp&perline=8" alt="Languages" />
+
+### Frontend
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,html,css,vite&perline=8" alt="Frontend" />
+
+### Backend, Data & Infrastructure
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,linux,nginx,mysql,postgres,redis,git,vscode&perline=9" alt="Backend and infrastructure" />
 
 </div>
 
----
-
-# 📈 Contribution Graph
+## GitHub Activity
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=HC-Zhou&theme=tokyo-night&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=HC-Zhou&theme=tokyo-night&hide_border=true&area=true" alt="Contribution graph" />
 
 </div>
 
----
-
-# 📈 Coding Status
+## Current Direction
 
 ```text
-AI               ███████████████████░░
-Backend          ██████████████████░░░
-Distributed      ████████████████░░░░░
-Cloud            ███████████████░░░░░░
-Frontend         ███████████░░░░░░░░░░
+AI applications        ███████████████████░░
+Backend systems        ██████████████████░░░
+Cloud native           ████████████████░░░░░
+Frontend products      ███████████████░░░░░░
+Distributed systems    ███████████████░░░░░░
 ```
 
----
-
-# 📫 Contact
+## Contact
 
 <div align="center">
 
 <a href="https://github.com/HC-Zhou">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+  <img src="https://img.shields.io/badge/GitHub-HC--Zhou-181717?style=for-the-badge&logo=github" alt="GitHub" />
 </a>
 
 </div>
@@ -77,9 +96,6 @@ Frontend         ███████████░░░░░░░░░░
 ---
 
 <div align="center">
-
-### ⭐ Thanks for visiting!
-
-*"Code. Learn. Share. Build the Future."*
+**Building useful software with thoughtful engineering.**
 
 </div>
