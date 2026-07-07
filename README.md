@@ -74,28 +74,6 @@
 
 ---
 
-# 🏆 GitHub Trophy
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=HC-Zhou&theme=tokyonight&no-frame=true&row=1&column=7"/>
-
-</div>
-
----
-
-# 🚀 Featured Projects
-
-| Project | Description |
-|---------|-------------|
-| ⭐ Project One | Your awesome project |
-| ⭐ Project Two | Your awesome project |
-| ⭐ Project Three | Your awesome project |
-
-> Replace these with your own repositories.
-
----
-
 # 📈 Coding Status
 
 ```text
