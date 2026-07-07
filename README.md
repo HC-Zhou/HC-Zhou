@@ -42,18 +42,6 @@
 
 ---
 
-# 📊 GitHub Statistics
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.hackclub.dev/api?username=HC-Zhou&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.hackclub.dev/api/top-langs/?username=HC-Zhou&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
 # 🔥 Contribution Streak
 
 <div align="center">
